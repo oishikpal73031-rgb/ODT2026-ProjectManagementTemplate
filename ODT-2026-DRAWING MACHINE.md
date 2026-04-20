@@ -174,7 +174,8 @@ Overall, the system transforms a single button input into synchronized multi-axi
 ## 7.1 Concept Sketch
 
 **Insert image below:**  
-`[Upload image and link here]`
+<img src="images/CONCEPT SKETCH.jpeg" width="400">
+
 
 ## 7.2 Labeled Build Sketch
 
@@ -279,7 +280,8 @@ All motors receive power from the regulated supply and share common ground.
 ## 9.3 Circuit Diagram
 
 **Insert image below:**  
-`[Upload image and link here]`
+<img src="images/CIRCUIT DIAGRAMm.jpg" width="400">
+
 
 ## 9.4 Power Plan
 
