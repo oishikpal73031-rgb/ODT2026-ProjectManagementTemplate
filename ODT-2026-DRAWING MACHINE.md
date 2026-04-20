@@ -234,9 +234,9 @@ Speed is controlled through step delay timing, typically operating in the range 
 
 | Tool Used | File / Link | What Was Tested |
 |---|---|---|
-| Tinkercad / Basic CAD Modeling | [Info not given] | Overall structure layout including base frame, sand container, and gantry placement |
-| Tinkercad / CAD | [Info not given] | Alignment of X and Y axes using drawer sliders and positioning of rack and pinion system |
-| Tinkercad / CAD | [Info not given] | Clearance between moving gantry and frame to ensure no collision during motion |
+| Tinkercad / Basic CAD Modeling | N.A. | Overall structure layout including base frame, sand container, and gantry placement |
+| Tinkercad / CAD | N.A. | Alignment of X and Y axes using drawer sliders and positioning of rack and pinion system |
+| Tinkercad / CAD | N.A. | Clearance between moving gantry and frame to ensure no collision during motion |
 
 <img src="images/CAD MODEL.jpeg" width="400">
 ## 8.5 Changes After Digital Testing
