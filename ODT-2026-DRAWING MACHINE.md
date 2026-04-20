@@ -238,6 +238,7 @@ Speed is controlled through step delay timing, typically operating in the range 
 | Tinkercad / CAD | [Info not given] | Alignment of X and Y axes using drawer sliders and positioning of rack and pinion system |
 | Tinkercad / CAD | [Info not given] | Clearance between moving gantry and frame to ensure no collision during motion |
 
+<img src="images/CAD MODEL.jpeg" width="400">
 ## 8.5 Changes After Digital Testing
 
 **Response:**  
@@ -734,7 +735,7 @@ The final build reflects a balance between structural rigidity and precise mecha
 ---
 
 ### 17.2 Build Photos
-
+<img src="images/BUILD PHOTOS.jpg" width="400">
 ---
 
 ### 17.3 Version History
