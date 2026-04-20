@@ -180,7 +180,7 @@ Overall, the system transforms a single button input into synchronized multi-axi
 ## 7.2 Labeled Build Sketch
 
 **Insert image below:**  
-`Info yet to be given`
+<img src="images/LABELLED DIAGRAM.jpeg" width="400">
 
 ## 7.3 Approximate Dimensions
 
